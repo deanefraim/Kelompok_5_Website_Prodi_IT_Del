@@ -1,2 +1,2 @@
 # Kelompok-5-PABWE
-pembuatan web statis
+Pembuatan Web Statis Program Studi S1 Informatika
