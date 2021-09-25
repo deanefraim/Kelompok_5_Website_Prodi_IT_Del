@@ -1,12 +1,15 @@
 # Kelompok_5_WebsiteProdi_IT_Del
-Contoh website yang menjadi acuan kami
-https://ugm.ac.id/id/pendidikan/fakultas-teknik
 
-## Nama Kelompok :
+### Nama Kelompok :
 -	11S18008 : Andrini Mayetha Panjaitan
 -	11S18023 : Jhon Videlis Simamora
 -	11S18068 : Santi Sandryna
 -	11S18069 : Dean Efraim
+
+Contoh website yang menjadi acuan kami
+https://ugm.ac.id/id/pendidikan/fakultas-teknik
+
+
 
 Spesifikasi Hardware Laptop yang digunakan :
 -	8GB RAM
