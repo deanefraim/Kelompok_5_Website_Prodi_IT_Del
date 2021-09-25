@@ -11,3 +11,11 @@ Spesifikasi Hardware Laptop yang digunakan :
 -	BIOS : InsydeH20 Version 05.11.464WCN37WW
 -	390GB SSD Storage
 -	Intel HD Graphics 2GB
+
+Spesifikasi/Teknologi Software yang digunakan :
+-	Visual Studio Code 2019
+-	Bootsrap 5
+-	Sublime text
+
+Repository yang digunakan :
+https://github.com/deanefraim/Kelompok_5_Website_Prodi_IT_Del
