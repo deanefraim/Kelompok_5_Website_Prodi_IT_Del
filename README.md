@@ -2,7 +2,7 @@
 Contoh website yang menjadi acuan kami
 https://ugm.ac.id/id/pendidikan/fakultas-teknik
 
-Nama Kelompok :
+## Nama Kelompok :
 -	11S18008 : Andrini Mayetha Panjaitan
 -	11S18023 : Jhon Videlis Simamora
 -	11S18068 : Santi Sandryna
