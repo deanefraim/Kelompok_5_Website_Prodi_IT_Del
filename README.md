@@ -22,3 +22,4 @@ https://github.com/deanefraim/Kelompok_5_Website_Prodi_IT_Del
 
 Fitur-Fitur website yang akan dibuat :
 -	Beranda/Home : yang menjelaskan tentang suatu halaman utama atau halaman pembuka yang ada dalam suatu website. Dan fitur home/beranda ini sangatlah penting, karena fitur ini merupakan halaman index atau yang pertama kali ditampilkan ketika domain dari website itu dipanggil.
+-	Profil : yang menjelaskan secara detail tentang informasi umum mengenai program studi Sarjana Informatika, terkhusus dosen-dosen program studi Sarjana Informatika.
