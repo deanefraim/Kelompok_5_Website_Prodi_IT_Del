@@ -28,4 +28,8 @@ https://github.com/deanefraim/Kelompok_5_Website_Prodi_IT_Del
 -	Beranda/Home  : yang menjelaskan tentang suatu halaman utama atau halaman pembuka yang ada dalam suatu website. Dan fitur home/beranda ini sangatlah penting, karena fitur ini merupakan halaman index atau yang pertama kali ditampilkan ketika domain dari website itu dipanggil.
 -	Profil        : yang menjelaskan secara detail tentang informasi umum mengenai program studi Sarjana Informatika, terkhusus dosen-dosen program studi Sarjana Informatika.
 -	Informasi Akademik : yang menjelaskan tentang informasi-informasi akademik dari program studi Sarjana Informatika.
-
+- Kegiatan : yang menjelaskan tentang kegiatan-kegiatan yang pernah diadakan oleh mahasiswa/I program studi Sarjana Informatika.
+- Galeri : yang menunjukkan tentang gambar-gambar atau foto-foto yang ada pada program studi Sarjana Informatika.
+- Tentang HIMASTI : yang menjelaskan tentang visi dan misi dari program studi Sarjana Informatika.
+- Kontak Kami : yang memungkinkan user dapat menghubungi kontak yang ada di halaman untuk memperjelas infomasi tentang program studi Sarjana Informatika.
+- Footer : yang menjelaskan tentang informasi mengenai social media dan hak cipta atau kepemilikan dari website program studi Sarjana Informatika.
