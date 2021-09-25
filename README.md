@@ -1,4 +1,9 @@
 # Kelompok_5_WebsiteProdi_IT_Del
+Contoh website yang menjadi acuan kami
+http://informatika.umri.ac.id/halaman/dosen
+https://ugm.ac.id/id/pendidikan/fakultas-teknik
+http://raion.ub.ac.id/
+
 Nama Kelompok :
 -	11S18008 : Andrini Mayetha Panjaitan
 -	11S18023 : Jhon Videlis Simamora
