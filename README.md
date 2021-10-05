@@ -17,9 +17,12 @@ https://ugm.ac.id/id/pendidikan/fakultas-teknik
 -	Intel HD Graphics 2GB
 
 ### Spesifikasi/Teknologi Software yang digunakan :
--	Visual Studio Code 2019
--	Bootsrap 5
--	Sublime text
+-	OS : Windows 10
+-	Text Editor : Visual Studio Code 2019
+-	Text Editor : Sublime Text
+-	Client : Browser
+-	Framework : Bootstrap 5
+-	Dokumentasi : Paket Office
 
 Repository yang digunakan :
 https://github.com/deanefraim/Kelompok_5_Website_Prodi_IT_Del
